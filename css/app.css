@@ -1,0 +1,27 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+
+
+.page-header    {
+    background-color: tomato;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid sandybrown;
+}
+
+.page-header .profile-image {
+    width: 200px;
+}
+
+.section_title {
+    font-size: 28px;
+    color: sandybrown;
+}
+
+.list_item  .item_title{
+    font-weight: 700;
+    font-style: italic;   /* corsivo */
+}
